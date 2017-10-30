@@ -1,0 +1,3 @@
+[submodule "goSquanto"]
+	path = goSquanto
+	url = https://github.com/Corseman/goSquanto
